@@ -1,0 +1,73 @@
+{{!< layout-home.hbs }}
+
+<div class="row section topspace">
+  <div class="col-md-12">
+    <p class="lead text-center text-muted">
+      Promoting the art and science of brewing through collaboration and competition.
+    </p>
+  </div>
+</div> <!-- / section -->
+
+<!-- {{#each articles }}
+  {{ title }}
+{{/each}} -->
+
+<div class="row section featured topspace">
+  <h2 class="section-title"><span>2015</span></h2>
+  <div class="row">
+    <div class="col-md-12">
+      {{{ page.html }}}
+    </div>
+  </div>
+</div> <!-- / section -->
+
+<div class="row section venue-sponsors topspace">
+
+  <h2 class="section-title"><span>Venue Sponsor</span></h2>
+
+  <div class="col-xs-12 col-md-6 col-md-offset-3">
+    <a class="thumbnail" href="http://www.thecharmingsquire.com.au/" target="_blank">
+      <span class="img">
+        <img src="img/logo/squires.png" alt="">
+        <span class="cover"><span class="more">Visit site &rarr;</span></span>
+      </span>
+    </a>
+  </div>
+
+</div>
+
+<div class="row section sponsors topspace">
+
+  <h2 class="section-title"><span>Sponsors</span></h2>
+
+  <div class="thumbnails row">
+    {{#each contents.sponsors }}
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <a class="thumbnail" href="{{ this.metadata.uri }}" target="_blank">
+          <span class="img">
+            <div class="img-abs-container">
+              <img class="center-block" src="img/logo/{{ this.metadata.logo }}" alt="">
+            </div>
+            <span class="cover"><span class="more">Visit site &rarr;</span></span>
+          </span>
+          <span class="title">{{ this.metadata.name }}</span>
+        </a>
+        <!-- <span class="details"><a href="">Web design</a> | <a href="">Wordpress</a> | <a href="">Logotype</a></span>
+        <h4></h4>
+        <p></p> -->
+      </div>
+    {{/each}}
+  </div>
+</div> <!-- /section -->
+
+<!-- <div class="row section topspace">
+  <div class="panel panel-cta"><div class="panel-body">
+    <div class="col-lg-8">
+      <p>A simple, nice-looking <b>call to action box</b>. Boxing is about respect. getting it for yourself,
+      and taking it away from the other guy. no, this is mount everest. </p>
+    </div>
+    <div class="col-lg-4 text-right">
+      <a href="http://www.gettemplate.com/downloads/initio.zip " class="btn btn-primary btn-lg">Download template</a>
+    </div>
+  </div></div>
+</div>-->  <!-- /section -->
