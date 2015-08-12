@@ -1,4 +1,4 @@
 
-# Blog
+# The QABC website
 
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
+This generates the qabc website - http://www.qabc.org.au/
