@@ -14,7 +14,6 @@
     ]
   },
   "plugins": [
-    "./plugins/paginator.coffee",
     "./node_modules/wintersmith-handlebars/wintersmith-handlebars.coffee"
   ],
   "require": {
@@ -28,6 +27,7 @@
   },
   "paginator": {
     "perPage": 3,
-    "first": "blog/index.html"
+    "first": "blog/index.html",
+    "template": "article.hbs"
   }
 }
