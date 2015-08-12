@@ -2,6 +2,7 @@
 title: terms & conditions
 template: article.hbs
 ---
+# terms and conditions
 
 1. QABC is a registered BJCP competition.
 2. Each entrant is restricted to two (2) entries per Category. Within this rule, no more
@@ -24,9 +25,8 @@ on the [AABC website](http://www.aabc.org.au/).
 accompany the entry form and entries.
 Entries close on:
  * **Craftbrewer/Bacchus Brewing - 1pm Saturday, 5th of September, 2015**
- * **Brewers Choice - Close of business on Tuesday, 1st of September,**
-2015
-Judging will take place on the weekend of 19-20th September
+ * **Brewers Choice - Close of business on Tuesday, 1st of September, 2015**
+6. Judging will take place on the weekend of 19-20th September
 8. Judging will be conducted by blind tasting, referencing the [AABC style guidelines](http://www.aabc.org.au/). All
 winning beers will go forward to a BOS round once all category judging has been
 completed at the discretion of the chief steward (see rule 13).

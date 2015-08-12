@@ -3,7 +3,15 @@
     "url": "http://localhost:8080",
     "name": "QABC",
     "owner": "Someone",
-    "description": "The Queensland Amateur Brewing Competition"
+    "description": "The Queensland Amateur Brewing Competition",
+    "committee": [
+      { "position": "Organiser & Head Steward:", "holder": "Dan Angus" },
+      { "position": "Competition Secretary:", "holder": "Mark Davies" },
+      { "position": "Judge Director:", "holder": "Dave Clarke" },
+      { "position": "Registrar:", "holder": "Jason McDonald" },
+      { "position": "Venue Co-ordinator & Sponsorship:", "holder": "Mark Davies" },
+      { "position": "Transportation:", "holder": "Tim Butler / Dean Tummers" }
+    ]
   },
   "plugins": [
     "./plugins/paginator.coffee",
