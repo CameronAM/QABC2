@@ -5,16 +5,35 @@
     "owner": "Someone",
     "description": "The Queensland Amateur Brewing Competition",
     "committee": [
-      { "position": "Organiser & Head Steward:", "holder": "Dan Angus" },
-      { "position": "Competition Secretary:", "holder": "Mark Davies" },
-      { "position": "Judge Director:", "holder": "Dave Clarke" },
-      { "position": "Registrar:", "holder": "Jason McDonald" },
-      { "position": "Venue Co-ordinator & Sponsorship:", "holder": "Mark Davies" },
-      { "position": "Transportation:", "holder": "Tim Butler / Dean Tummers" }
+      {
+        "position": "Organiser & Head Steward:",
+        "holder": "Dan Angus"
+      },
+      {
+        "position": "Competition Secretary:",
+        "holder": "Mark Davies"
+      },
+      {
+        "position": "Judge Director:",
+        "holder": "Dave Clarke"
+      },
+      {
+        "position": "Registrar:",
+        "holder": "Jason McDonald"
+      },
+      {
+        "position": "Venue Co-ordinator & Sponsorship:",
+        "holder": "Mark Davies"
+      },
+      {
+        "position": "Transportation:",
+        "holder": "Tim Butler / Dean Tummers"
+      }
     ]
   },
   "plugins": [
-    "./node_modules/wintersmith-handlebars/wintersmith-handlebars.coffee"
+    "./node_modules/wintersmith-handlebars/wintersmith-handlebars.coffee",
+    "wintersmith-pngquant"
   ],
   "require": {
     "moment": "moment",

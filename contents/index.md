@@ -15,3 +15,5 @@ Entry costs are $5 per entrant, and $5 per entry.
 
 Style guidelines will be as per the 2014 competition, in other words we are not adopting the new BJCP guidelines for 2015
 Entry form now available.
+
+Those wishing to assist with judging and stewarding, please <a href="http://goo.gl/forms/OepjIv0hXB" target="_blank">register your interest</a>.
