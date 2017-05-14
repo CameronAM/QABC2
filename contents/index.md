@@ -1,6 +1,6 @@
 ---
 title: 2015 event
-template: index.hbs
+layout: index.hbs
 ---
 
 The 2015 Queensland Amateur Brewing Championship will be held on the 19th and

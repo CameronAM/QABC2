@@ -1,5 +1,4 @@
-{{!< layout-home.hbs }}
-
+{{#> layout-home }}
 <div class="row section topspace">
   <div class="col-md-12">
     <p class="lead text-center text-muted">
@@ -14,10 +13,10 @@
 
 <div class="row section featured topspace">
   <div class="col-md-12">
-    <h1 class="section-title"><span>{{ page.title }}</span></h1>
+    <h1 class="section-title"><span>{{ title }}</span></h1>
     <div class="row">
       <div class="col-lg-8">
-        {{{ page.html }}}
+        {{{ contents }}}
       </div>
       <div class="col-lg-4">
         <div class="panel panel-cta committee">
@@ -58,16 +57,16 @@
       <h1 class="section-title"><span>Sponsors</span></h1>
     </div>
 
-    {{#each contents.sponsors }}
+    {{#each sponsors }}
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-        <a class="thumbnail" href="{{ this.metadata.uri }}" target="_blank">
+        <a class="thumbnail" href="{{ this.data.uri }}" target="_blank">
           <span class="img">
             <div class="img-abs-container">
-              <img class="center-block" src="img/logo/{{ this.metadata.logo }}" alt="">
+              <img class="center-block" src="img/logo/{{ this.data.logo }}" alt="sponsor logo">
             </div>
             <span class="cover"><span class="more">Visit site &rarr;</span></span>
           </span>
-          <span class="title">{{ this.metadata.name }}</span>
+          <span class="title">{{ this.data.name }}</span>
         </a>
         <!-- <span class="details"><a href="">Web design</a> | <a href="">Wordpress</a> | <a href="">Logotype</a></span>
         <h4></h4>
@@ -88,3 +87,4 @@
     </div>
   </div></div>
 </div>-->  <!-- /section -->
+{{/layout-home }}

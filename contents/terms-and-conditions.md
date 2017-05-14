@@ -1,6 +1,6 @@
 ---
 title: terms & conditions
-template: article.hbs
+layout: article.hbs
 ---
 # terms and conditions
 

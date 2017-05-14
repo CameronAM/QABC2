@@ -1,0 +1,62 @@
+{
+  "source": "./contents",
+  "metadata": {
+    "name": "QABC",
+    "description": "The Queensland Amateur Brewing Competition",
+    "committee": [
+      {
+        "position": "Organiser & Head Steward:",
+        "holder": "Dan Angus"
+      },
+      {
+        "position": "Competition Secretary:",
+        "holder": "Mark Davies"
+      },
+      {
+        "position": "Judge Director:",
+        "holder": "Dave Clarke"
+      },
+      {
+        "position": "Registrar:",
+        "holder": "Jason McDonald"
+      },
+      {
+        "position": "Venue Co-ordinator & Sponsorship:",
+        "holder": "Mark Davies"
+      },
+      {
+        "position": "Transportation:",
+        "holder": "Tim Butler / Dean Tummers"
+      }
+    ]
+  },
+  "plugins": {
+    "metalsmith-markdown": {},
+    "metalsmith-json": {},
+    "metalsmith-collections": {
+      "sponsors": {
+        "pattern": "sponsors/*.json"
+      },
+      "results": {
+        "pattern": "results/*.html"
+      }
+    },
+    "metalsmith-layouts": {
+      "engine": "handlebars",
+      "directory": "./templates",
+      "partials": {
+        "layout-home": "partials/layout-home",
+        "layout-article": "partials/layout-article",
+        "head": "partials/head",
+        "header": "partials/header",
+        "footer": "partials/footer"
+      }
+    },
+    "metalsmith-discover-partials": {
+      "directory": "partials",
+      "pattern": "/\\.hbs$/"
+    },
+    "metalsmith-paths": {},
+    "metalsmith-debug": {}
+  }
+}
