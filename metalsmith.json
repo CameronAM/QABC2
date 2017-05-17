@@ -5,28 +5,20 @@
     "description": "The Queensland Amateur Brewing Competition",
     "committee": [
       {
-        "position": "Organiser & Head Steward:",
-        "holder": "Dan Angus"
-      },
-      {
-        "position": "Competition Secretary:",
+        "position": "Organiser & Competition Secretary:",
         "holder": "Mark Davies"
       },
       {
-        "position": "Judge Director:",
-        "holder": "Dave Clarke"
+        "position": "Judge Director & Head Steward:",
+        "holder": "Tony Brown"
       },
       {
         "position": "Registrar:",
         "holder": "Jason McDonald"
       },
       {
-        "position": "Venue Co-ordinator & Sponsorship:",
-        "holder": "Mark Davies"
-      },
-      {
         "position": "Transportation:",
-        "holder": "Tim Butler / Dean Tummers"
+        "holder": "Dean Tummers"
       }
     ]
   },
