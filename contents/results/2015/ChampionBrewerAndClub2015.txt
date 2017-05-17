@@ -1,0 +1,45 @@
+Champion Brewer:
+(Note: The Champion Brewer Award is calculated on the sum of the brewer's highest 4 placings over 4 separate categories (classes 1-18 only): 1st = 3 points, 2nd = 2 points, 3rd = 1 point.)
+  1 Natham Semmens          12 (5 x 1st, 2 x 2nd, 1 x 3rd and a 2nd and 3rd that don't count due to higher place in the same category)
+  2 Paul Schofield [BABBs]  10 (2 x 1st, 3 x 2nd, 0 x 3rd and a 3rd that don't count due to higher place in the same category)
+ =3 David Colville           5 (1 x 1st, 1 x 2nd, 0 x 3rd)
+ =3 Jason Phan               5 (1 x 1st, 1 x 2nd, 0 x 3rd)
+ =3 Martin Rudge [BABBs]     5 (1 x 1st, 1 x 2nd, 0 x 3rd)
+ =6 Daniel Angus [BABBs]     4 (1 x 1st, 0 x 2nd, 1 x 3rd)
+ =6 David Clarke [BABBs]     4 (1 x 1st, 0 x 2nd, 1 x 3rd)
+ =6 Scott Eckford [RBT]      4 (1 x 1st, 0 x 2nd, 1 x 3rd)
+ =6 Nick Barnes [BABBs]      4 (1 x 1st, 0 x 2nd, 1 x 3rd)
+ =6 Shaun Elwood             4 (1 x 1st, 0 x 2nd, 1 x 3rd)
+=11 Earle Douglas [TOOSOBA]  3 (1 x 1st, 0 x 2nd, 0 x 3rd)
+=11 Matthew Hockaday         3 (1 x 1st, 0 x 2nd, 0 x 3rd)
+=11 Mark Bedford [BABBs]     3 (0 x 1st, 1 x 2nd, 1 x 3rd)
+=11 Michael Johnson [IBU]    3 (1 x 1st, 0 x 2nd, 0 x 3rd)
+=15 Karl Robinson [IBU]      2 (0 x 1st, 1 x 2nd, 0 x 3rd)
+=15 Jimmy Vanschyndel [PUBS] 2 (0 x 1st, 1 x 2nd, 0 x 3rd)
+=15 Luke Ronalds [GoldCLUB]  2 (0 x 1st, 1 x 2nd, 0 x 3rd)
+=15 Roger Duncan             2 (0 x 1st, 1 x 2nd, 0 x 3rd)
+=15 Spiro Zantiotis          2 (0 x 1st, 1 x 2nd, 0 x 3rd)
+=15 Andreas Taylor           2 (0 x 1st, 1 x 2nd, 0 x 3rd)
+=15 Cary Macdonald [BABBs]   2 (0 x 1st, 1 x 2nd, 0 x 3rd)
+=15 Roger Lawrence [IBU]     2 (0 x 1st, 1 x 2nd, 0 x 3rd)
+=23 Anhtony Kohn [BBC]       1 (0 x 1st, 0 x 2nd, 1 x 3rd)
+=23 Martin Wallis [IBU]      1 (0 x 1st, 0 x 2nd, 1 x 3rd)
+=23 Michael Guy [BABBs]      1 (0 x 1st, 0 x 2nd, 1 x 3rd)
+=23 Matthew Obrien [Fraser]  1 (0 x 1st, 0 x 2nd, 1 x 3rd)
+=23 Andrew Mahony            1 (0 x 1st, 0 x 2nd, 1 x 3rd)
+=23 Dean Tummers [IBU]       1 (0 x 1st, 0 x 2nd, 1 x 3rd)
+=23 Bryan Penley [BBC]       1 (0 x 1st, 0 x 2nd, 1 x 3rd)
+=23 Julian Grigg [BABBs]     1 (0 x 1st, 0 x 2nd, 1 x 3rd)
+=23 Troy Parker [BABBs]      1 (0 x 1st, 0 x 2nd, 1 x 3rd)
+
+Champion Club:
+(Note: The Champion Club award is calculated on the sum of placing points over classes 1-18: 1st = 3 points, 2nd = 2 points, 3rd = 1 point.)
+ 1 BABBs                        38
+ 2 IBU                           9
+ 3 RBT                           4
+ 4 TOOSOBA                       3
+=5 PUBS                          2
+=5 GoldCLUB                      2
+=5 BBC                           2
+ 8 Fraser Coast Bayside Brewers  1
+ - Unaffiliated                 46
